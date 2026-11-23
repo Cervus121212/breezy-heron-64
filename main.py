@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One Line, Zero Use: The Useless Superpower Sprint.
 
-Writes one original sentence (91 characters) to /output/entry.txt:
+Writes one original sentence (113 characters) to /output/entry.txt:
 a hilariously useless superpower. Stdlib only, deterministic:
 the same output on every run.
 """
@@ -9,8 +9,8 @@ the same output on every run.
 import os
 
 SENTENCE = (
-    "I can read minds, but only pigeons', and every single one "
-    "of them is thinking about crumbs."
+    "I can read pigeons' minds, but every thought is 'crumbs', "
+    "except on Tuesdays, when it's 'slightly bigger crumbs'."
 )
 
 
